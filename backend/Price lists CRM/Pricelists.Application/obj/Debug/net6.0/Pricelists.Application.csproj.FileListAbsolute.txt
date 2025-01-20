@@ -1,0 +1,34 @@
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.Application.deps.json
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.Application.dll
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.Application.pdb
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.Core.dll
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.DataAccess.dll
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.DataAccess.pdb
+C:\projects\Pricelists.Application\bin\Debug\net6.0\Pricelists.Core.pdb
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.csproj.AssemblyReference.cache
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.AssemblyInfoInputs.cache
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.AssemblyInfo.cs
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.csproj.CoreCompileInputs.cache
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelis.A3DA183B.Up2Date
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.dll
+C:\projects\Pricelists.Application\obj\Debug\net6.0\refint\Pricelists.Application.dll
+C:\projects\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.pdb
+C:\projects\Pricelists.Application\obj\Debug\net6.0\ref\Pricelists.Application.dll
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.Application.deps.json
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.Application.dll
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.Application.pdb
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.Core.dll
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.DataAccess.dll
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.DataAccess.pdb
+C:\projects\Price lists CRM\Pricelists.Application\bin\Debug\net6.0\Pricelists.Core.pdb
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.csproj.AssemblyReference.cache
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.AssemblyInfoInputs.cache
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.AssemblyInfo.cs
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.csproj.CoreCompileInputs.cache
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelis.A3DA183B.Up2Date
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.dll
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\refint\Pricelists.Application.dll
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\Pricelists.Application.pdb
+C:\projects\Price lists CRM\Pricelists.Application\obj\Debug\net6.0\ref\Pricelists.Application.dll

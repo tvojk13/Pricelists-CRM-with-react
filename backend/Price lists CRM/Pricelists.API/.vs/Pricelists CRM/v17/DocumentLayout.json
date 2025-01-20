@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\Price lists CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D8530-0E87-4B03-8078-163F10592553}|..\\Pricelists.Application\\Pricelists.Application.csproj|c:\\projects\\pricelists.application\\services\\pricelistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F61E1D-FF0C-4677-874F-7A3EE585C2BD}|..\\Pricelists.Core\\Pricelists.Core.csproj|c:\\projects\\pricelists.core\\abstractions\\ipricelistsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\controllers\\pricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:controllers\\pricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\contracts\\pricelistsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:contracts\\pricelistsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\models\\pricelistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:models\\pricelistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F61E1D-FF0C-4677-874F-7A3EE585C2BD}|..\\Pricelists.Core\\Pricelists.Core.csproj|c:\\projects\\pricelists.core\\abstractions\\ipricelistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F61E1D-FF0C-4677-874F-7A3EE585C2BD}|..\\Pricelists.Core\\Pricelists.Core.csproj|c:\\projects\\pricelists.core\\models\\pricelistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32301902-2EA1-4267-9352-F17AD458571B}|..\\Pricelists.DataAccess\\Pricelists.DataAccess.csproj|c:\\projects\\pricelists.dataaccess\\entities\\repository\\pricelistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32301902-2EA1-4267-9352-F17AD458571B}|..\\Pricelists.DataAccess\\Pricelists.DataAccess.csproj|c:\\projects\\pricelists.dataaccess\\pricelistsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32301902-2EA1-4267-9352-F17AD458571B}|..\\Pricelists.DataAccess\\Pricelists.DataAccess.csproj|c:\\projects\\pricelists.dataaccess\\configurations\\pricelistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32301902-2EA1-4267-9352-F17AD458571B}|..\\Pricelists.DataAccess\\Pricelists.DataAccess.csproj|c:\\projects\\pricelists.dataaccess\\entities\\pricelistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\pricelist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\pricelist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\pricelist\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\pricelist\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\pricelist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\pricelist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\pricelist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\pricelist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\pricelist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\pricelist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\models\\columnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:models\\columnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|c:\\projects\\price lists crm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A451A3A-A71E-444C-89FD-D9452492E67B}|Pricelists.API.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 125,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PricelistsResponse.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Contracts\\PricelistsResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\PricelistsResponse.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Contracts\\PricelistsResponse.cs",
+              "RelativeToolTip": "Contracts\\PricelistsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:55:20.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPricelistsService.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.Core\\Abstractions\\IPricelistsService.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.Core\\Abstractions\\IPricelistsService.cs",
+              "ToolTip": "C:\\projects\\Pricelists.Core\\Abstractions\\IPricelistsService.cs",
+              "RelativeToolTip": "..\\Pricelists.Core\\Abstractions\\IPricelistsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:44:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PricelistsService.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.Application\\Services\\PricelistsService.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.Application\\Services\\PricelistsService.cs",
+              "ToolTip": "C:\\projects\\Pricelists.Application\\Services\\PricelistsService.cs",
+              "RelativeToolTip": "..\\Pricelists.Application\\Services\\PricelistsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:36:37.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPricelistsRepository.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.Core\\Abstractions\\IPricelistsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.Core\\Abstractions\\IPricelistsRepository.cs",
+              "ToolTip": "C:\\projects\\Pricelists.Core\\Abstractions\\IPricelistsRepository.cs",
+              "RelativeToolTip": "..\\Pricelists.Core\\Abstractions\\IPricelistsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:22:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PricelistsRepository.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.DataAccess\\Entities\\Repository\\PricelistsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.DataAccess\\Entities\\Repository\\PricelistsRepository.cs",
+              "ToolTip": "C:\\projects\\Pricelists.DataAccess\\Entities\\Repository\\PricelistsRepository.cs",
+              "RelativeToolTip": "..\\Pricelists.DataAccess\\Entities\\Repository\\PricelistsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:57:30.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PricelistConfiguration.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.DataAccess\\Configurations\\PricelistConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.DataAccess\\Configurations\\PricelistConfiguration.cs",
+              "ToolTip": "C:\\projects\\Pricelists.DataAccess\\Configurations\\PricelistConfiguration.cs",
+              "RelativeToolTip": "..\\Pricelists.DataAccess\\Configurations\\PricelistConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:50:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PricelistEntity.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.DataAccess\\Entities\\PricelistEntity.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.DataAccess\\Entities\\PricelistEntity.cs",
+              "ToolTip": "C:\\projects\\Pricelists.DataAccess\\Entities\\PricelistEntity.cs",
+              "RelativeToolTip": "..\\Pricelists.DataAccess\\Entities\\PricelistEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:42:41.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PricelistsDbContext.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.DataAccess\\PricelistsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.DataAccess\\PricelistsDbContext.cs",
+              "ToolTip": "C:\\projects\\Pricelists.DataAccess\\PricelistsDbContext.cs",
+              "RelativeToolTip": "..\\Pricelists.DataAccess\\PricelistsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:39:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PricelistModel.cs",
+              "DocumentMoniker": "C:\\projects\\Pricelists.Core\\Models\\PricelistModel.cs",
+              "RelativeDocumentMoniker": "..\\Pricelists.Core\\Models\\PricelistModel.cs",
+              "ToolTip": "C:\\projects\\Pricelists.Core\\Models\\PricelistModel.cs",
+              "RelativeToolTip": "..\\Pricelists.Core\\Models\\PricelistModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:18:32.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\projects\\Price lists CRM\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-16T15:46:47.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T15:38:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pricelist\\Create.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Create.cshtml",
+              "RelativeToolTip": "Views\\Pricelist\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T12:27:30.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pricelist\\Delete.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Pricelist\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T12:18:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pricelist\\Details.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pricelist\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T12:18:22.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pricelist\\Edit.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Pricelist\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T12:11:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pricelist\\Index.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Pricelist\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pricelist\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwBYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T11:56:48.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PricelistsController.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Controllers\\PricelistsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PricelistsController.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Controllers\\PricelistsController.cs",
+              "RelativeToolTip": "Controllers\\PricelistsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:53:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:46:56.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\projects\\Price lists CRM\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T07:27:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T21:39:06.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T21:39:03.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\projects\\Price lists CRM\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-11T13:37:53.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\projects\\Price lists CRM\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T11:08:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ApplicationContext.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\ApplicationContext.cs",
+              "RelativeToolTip": "ApplicationContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:38:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ColumnModel.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Models\\ColumnModel.cs",
+              "RelativeDocumentMoniker": "Models\\ColumnModel.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Models\\ColumnModel.cs",
+              "RelativeToolTip": "Models\\ColumnModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:27:42.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PricelistModel.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Models\\PricelistModel.cs",
+              "RelativeDocumentMoniker": "Models\\PricelistModel.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Models\\PricelistModel.cs",
+              "RelativeToolTip": "Models\\PricelistModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:25:04.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:24:46.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T12:01:00.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:36:53.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\projects\\Price lists CRM\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\projects\\Price lists CRM\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T18:36:52.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

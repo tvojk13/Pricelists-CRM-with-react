@@ -1,0 +1,24 @@
+C:\projects\Pricelists.Core\bin\Debug\net6.0\Pricelists.Core.deps.json
+C:\projects\Pricelists.Core\bin\Debug\net6.0\Pricelists.Core.dll
+C:\projects\Pricelists.Core\bin\Debug\net6.0\Pricelists.Core.pdb
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.csproj.AssemblyReference.cache
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.AssemblyInfoInputs.cache
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.AssemblyInfo.cs
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.csproj.CoreCompileInputs.cache
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.dll
+C:\projects\Pricelists.Core\obj\Debug\net6.0\refint\Pricelists.Core.dll
+C:\projects\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.pdb
+C:\projects\Pricelists.Core\obj\Debug\net6.0\ref\Pricelists.Core.dll
+C:\projects\Price lists CRM\Pricelists.Core\bin\Debug\net6.0\Pricelists.Core.deps.json
+C:\projects\Price lists CRM\Pricelists.Core\bin\Debug\net6.0\Pricelists.Core.dll
+C:\projects\Price lists CRM\Pricelists.Core\bin\Debug\net6.0\Pricelists.Core.pdb
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.csproj.AssemblyReference.cache
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.AssemblyInfoInputs.cache
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.AssemblyInfo.cs
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.csproj.CoreCompileInputs.cache
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.dll
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\refint\Pricelists.Core.dll
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\Pricelists.Core.pdb
+C:\projects\Price lists CRM\Pricelists.Core\obj\Debug\net6.0\ref\Pricelists.Core.dll
